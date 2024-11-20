@@ -1,4 +1,4 @@
-# Athletic Sales_Analysis
+# Athletic Sales Analysis
 # Data Analysis Project: Sales Insights  
 
 This Python program analyzes sales data to generate insights about the top-performing regions, retailers, and product categories. The program also identifies peak sales periods for women's athletic footwear.  
@@ -51,10 +51,6 @@ This Python program analyzes sales data to generate insights about the top-perfo
    git clone https://github.com/your-repo/sales-analysis.git  
    cd sales-analysis  
    ```  
-2. Install required libraries:  
-   ```bash  
-   pip install -r requirements.txt  
-   ```  
 
 ## Usage  
 
@@ -68,22 +64,8 @@ This Python program analyzes sales data to generate insights about the top-perfo
 
 - **`data/`**: Contains input datasets  
 - **`main.py`**: Main script for analysis  
-- **`requirements.txt`**: Dependencies for the project  
 - **`output/`**: Directory for saving analysis results  
 
-## Scoring Rubric  
-
-| Task                                        | Points |  
-|---------------------------------------------|--------|  
-| Combine and Clean the Data                  | 15     |  
-| Determine which Region Sold the Most        | 15     |  
-| Determine which Region had the Most Sales   | 15     |  
-| Determine which Retailer had the Most Sales | 15     |  
-| Retailer Selling the Most Women's Footwear  | 20     |  
-| Day with the Most Footwear Sales            | 15     |  
-| Week with the Most Footwear Sales           | 5      |  
-
-### Total Points: **100**  
 
 ## Contributing  
 
@@ -92,3 +74,7 @@ Feel free to contribute by submitting a pull request or raising issues for any b
 ## License  
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.  
+
+## Acknowledgments
+
+This project was developed with the assistance of ChatGPT, an AI language model created by OpenAI. The model helped in generating ideas, code snippets, and documentation to enhance the overall development process.
